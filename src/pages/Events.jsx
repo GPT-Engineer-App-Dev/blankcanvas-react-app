@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Box, Button, Flex, Heading, Input, Stack, Text, VStack } from "@chakra-ui/react";
+import { Box, Button, Container, Flex, Heading, Input, Stack, Text, VStack } from "@chakra-ui/react";
 
 const Events = () => {
   const [events, setEvents] = useState([]);
